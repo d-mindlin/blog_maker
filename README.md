@@ -1,0 +1,1 @@
+This is a basic blog creator. Integration, System, and Units tests for the site can be found in the corresponding subdirectories.

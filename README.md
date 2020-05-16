@@ -1,1 +1,1 @@
-This is a basic blog creator. Integration, System, and Units tests for the site can be found in the corresponding subdirectories.
+This is a basic blog creator. Code comes from class taken at "https://www.udemy.com/course/automated-software-testing-with-python/". Integration, System, and Units tests for the site can be found in the corresponding subdirectories.
